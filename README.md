@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Deep9110"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+Tech+Enthusiastic%2C+person+and+Maintainer.;A+full-stack+Developer.;Student+of+Computer+Science+and+Information+Technology"></a>
+  <a href="https://github.com/Deep9110"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+Tech+Enthusiastic%2C;A+full-stack+Developer.;Student+of+Computer+Science+and+Information+Technology"></a>
 </p>
 <p align="center">
   <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Deep9110" height="30" width="40" /></a>
