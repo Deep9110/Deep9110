@@ -74,9 +74,8 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deep9110&show_icons=true&theme=synthwave" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Deep9110&theme=synthwave" />
 </p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Buddhad&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Deep9110&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deep9110)](https://github.com/Deep9110/Deep9110.git)
 
 
