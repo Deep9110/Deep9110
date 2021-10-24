@@ -67,3 +67,13 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
 
+## 📈 GitHub Stats
+
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Buddhad&show_icons=true&theme=synthwave" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Buddhad&theme=synthwave" />
+</p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Buddhad&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+<div align="center">
+
