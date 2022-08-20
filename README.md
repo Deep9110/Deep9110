@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Deep9110" height="30" width="40" /></a>
 </p>
 
-![Snake animation](https://github.com/parajulibkrm/parajulibkrm/blob/output/github-contribution-grid-snake.svg)
-
 
 ## ⚡ Technologies
 
